@@ -1,0 +1,5 @@
+.left__content{
+    display: grid;
+    justify-content: left;	
+    padding: 2em 8em;
+}

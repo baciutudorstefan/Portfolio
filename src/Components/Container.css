@@ -1,0 +1,11 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav__content {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    grid-row: 100vh;
+    padding: 1em;
+}
+
